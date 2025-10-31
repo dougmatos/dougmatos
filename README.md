@@ -1,7 +1,7 @@
 <div align="center">
   
   <!-- Banner animado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Douglas%20Matos&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20.NET%20|%20Angular&descAlignY=55&descAlign=62" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,25,4,4,30&height=200&section=header&text=Douglas%20Matos&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20.NET%20|%20Angular&descAlignY=60&descAlign=62" alt="header" />
   
 
   <!-- Typing animation -->

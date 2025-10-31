@@ -1,11 +1,11 @@
 <div align="center">
   
   <!-- Banner animado -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,25,4,4,30&height=200&section=header&text=Douglas%20Matos&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20.NET%20|%20Angular&descAlignY=60&descAlign=62" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,27,31,36,41&height=200&section=header&text=Douglas%20Matos&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=58a6ff&desc=Full%20Stack%20Developer%20|%20.NET%20|%20Angular&descAlignY=60&descAlign=62&descColor=8b949e" alt="header" />
   
 
   <!-- Typing animation -->
-  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FFB3&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;" alt="Typing SVG" /> -->
+  <!-- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=58a6ff&center=true&vCenter=true&width=600&lines=Desenvolvedor+Full+Stack;" alt="Typing SVG" /> -->
   
 </div>
 
@@ -88,16 +88,16 @@ hobbies:
 ## GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dougmatos&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dougmatos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dougmatos&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dougmatos&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <!-- Activity Graph -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dougmatos&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dougmatos&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff" alt="Activity Graph" />
 </div>
 
 <br/>
@@ -119,5 +119,5 @@ hobbies:
 
 <!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,27,31,36,41&height=100&section=footer" alt="footer" />
 </div>

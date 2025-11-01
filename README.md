@@ -86,20 +86,20 @@ hobbies:
 
 <!-- GitHub Stats -->
 ## GitHub Analytics
+<div  style="align:center;widht:430px;">
+  <div align="center"  style="width:430px;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dougmatos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dougmatos&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <div align="center"  style="width:430px">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dougmatos&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  </div>
 
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dougmatos&theme=github-dark-blue&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <!-- Activity Graph -->
+  <div align="center" style="width:430px">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dougmatos&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff" alt="Activity Graph" />
+  </div>
 </div>
-
-<!-- Activity Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dougmatos&theme=github-compact&hide_border=true&bg_color=0d1117&color=58a6ff&line=58a6ff&point=58a6ff" alt="Activity Graph" />
-</div>
-
 <br/>
 
 
